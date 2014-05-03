@@ -1,0 +1,6 @@
+[submodule "IME/ibus-unikey"]
+	path = IME/ibus-unikey
+	url = https://github.com/mrlequoctuan/ibus-unikey
+[submodule "IME/ibus-ringo"]
+	path = IME/ibus-ringo
+	url = https://github.com/lewtds/ibus-ringo/
