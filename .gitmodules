@@ -4,3 +4,6 @@
 [submodule "IME/ibus-ringo"]
 	path = IME/ibus-ringo
 	url = https://github.com/lewtds/ibus-ringo/
+[submodule "Vietnamese-Tools/B2Uconverter"]
+	path = Vietnamese-Tools/B2Uconverter
+	url = git@github.com:myguidingstar/B2Uconverter
