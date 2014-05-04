@@ -7,3 +7,6 @@
 [submodule "Vietnamese-Tools/B2Uconverter"]
 	path = Vietnamese-Tools/B2Uconverter
 	url = git@github.com:myguidingstar/B2Uconverter
+[submodule "IME/bogo-python"]
+	path = IME/bogo-python
+	url = git@github.com:BoGoEngine/bogo-python
