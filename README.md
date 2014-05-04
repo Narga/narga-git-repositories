@@ -10,3 +10,7 @@ A Collection of Git Repositories which has storaged on NARGA Local
 
 ## Vietnamese Utilities - Công cụ xử lí tiếng Việt
 * [B2UConverter](https://github.com/myguidingstar/B2Uconverter/): Công cụ chuyển đổi bảng mã tiếng Việt sang Unicode dành cho LibreOffice, hỗ trợ chuyển đổi clipboard, tài liệu đang thực hiện ...`
+
+## Feed, RSS Reader
+* [GreatNews](http://www.curiostudio.com/): The intelligent RSS Reader (only on Windows, stop development)
+
