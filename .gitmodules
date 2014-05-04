@@ -10,3 +10,9 @@
 [submodule "IME/bogo-python"]
 	path = IME/bogo-python
 	url = git@github.com:BoGoEngine/bogo-python
+[submodule "Front-End-Frameworks/foundation"]
+	path = Front-End-Frameworks/foundation
+	url = git@github.com:zurb/foundation
+[submodule "Front-End-Frameworks/bootstrap"]
+	path = Front-End-Frameworks/bootstrap
+	url = git@github.com:twitter/bootstrap
