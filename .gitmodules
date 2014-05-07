@@ -16,3 +16,39 @@
 [submodule "Front-End-Frameworks/bootstrap"]
 	path = Front-End-Frameworks/bootstrap
 	url = git@github.com:twitter/bootstrap
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/af_feedmod"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/af_feedmod
+	url = git://github.com/mbirth/ttrss_plugin-af_feedmod
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/af_fullpost"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/af_fullpost
+	url = git@github.com:atallo/ttrss_fullpost
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/af_refspoof"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/af_refspoof
+	url = git@github.com:Alekc/af_refspoof
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ff_feedcleaner"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ff_feedcleaner
+	url = git@github.com:wltb/ff_feedcleaner
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/markasread"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/markasread
+	url = git@github.com:Elv1zz/ttrss_plugin-markasread
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ff_xmllint"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ff_xmllint
+	url = git@github.com:/fastcat/tt-rss-ff-xmllint
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss_fullpost"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss_fullpost
+	url = git@github.com:itohsnap/ttrss_fullpost
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/tt-rss_plugin_inline-readability"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/tt-rss_plugin_inline-readability
+	url = git@github.com:Strayer/tt-rss_plugin_inline-readability
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/tt-rss_plugin_instaread"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/tt-rss_plugin_instaread
+	url = git@github.com:ebell451/tt-rss_plugin_instaread
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/tt-rss_plugin_readabillity_mobile"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/tt-rss_plugin_readabillity_mobile
+	url = git@github.com:ebell451/tt-rss_plugin_readabillity_mobile
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss-videoframes"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss-videoframes
+	url = git@github.com:tribut/ttrss-videoframes
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss-xml-start-tag-cleaner"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss-xml-start-tag-cleaner
+	url = git@github.com:guylabs/ttrss-xml-start-tag-cleaner
