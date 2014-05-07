@@ -52,3 +52,9 @@
 [submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss-xml-start-tag-cleaner"]
 	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Plugins/ttrss-xml-start-tag-cleaner
 	url = git@github.com:guylabs/ttrss-xml-start-tag-cleaner
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Themes/feedly-theme"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Themes/feedly-theme
+	url = git@github.com:levito/tt-rss-feedly-theme
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Themes/chalk"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Themes/chalk
+	url = git@github.com:asyncopation/ttrss-theme-chalk
