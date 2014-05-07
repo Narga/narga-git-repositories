@@ -61,3 +61,21 @@
 [submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Tiny-Tiny-RSS"]
 	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Tiny-Tiny-RSS
 	url = git@github.com:gothfox/Tiny-Tiny-RSS
+[submodule "dotfiles/mitsuhiko-dotfiles"]
+	path = dotfiles/mitsuhiko-dotfiles
+	url = git@github.com:mitsuhiko/dotfiles
+[submodule "dotfiles/necolas-dotfiles"]
+	path = dotfiles/necolas-dotfiles
+	url = git@github.com:necolas/dotfiles
+[submodule "dotfiles/w0ng-dotfiles"]
+	path = dotfiles/w0ng-dotfiles
+	url = git@github.com:w0ng/dotfiles
+[submodule "dotfiles/Wintervenom-Configuration"]
+	path = dotfiles/Wintervenom-Configuration
+	url = git@github.com:Wintervenom/Configuration
+[submodule "dotfiles/Wintervenom-Scripts"]
+	path = dotfiles/Wintervenom-Scripts
+	url = git@github.com:Wintervenom/Scripts
+[submodule "dotfiles/justone-dotfiles"]
+	path = dotfiles/justone-dotfiles
+	url = git@github.com:justone/dotfiles-personal
