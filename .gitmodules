@@ -58,3 +58,6 @@
 [submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Themes/chalk"]
 	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Themes/chalk
 	url = git@github.com:asyncopation/ttrss-theme-chalk
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Tiny-Tiny-RSS"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Tiny-Tiny-RSS
+	url = git@github.com:gothfox/Tiny-Tiny-RSS
