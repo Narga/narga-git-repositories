@@ -79,3 +79,45 @@
 [submodule "dotfiles/justone-dotfiles"]
 	path = dotfiles/justone-dotfiles
 	url = git@github.com:justone/dotfiles-personal
+[submodule "Static-Site-Generator/pelican"]
+	path = Static-Site-Generator/pelican
+	url = git@github.com:getpelican/pelican
+[submodule "Static-Site-Generator/jekyll"]
+	path = Static-Site-Generator/jekyll
+	url = git@github.com:jekyll/jekyll
+[submodule "dotfiles/dotfile-boilerplate"]
+	path = dotfiles/dotfile-boilerplate
+	url = git@github.com:thcipriani/dotfile-boilerplate
+[submodule "dotfiles/luizfl-dots"]
+	path = dotfiles/luizfl-dots
+	url = git@github.com:luizfl/dots
+[submodule "dotfiles/mathiasbynens-dotfiles"]
+	path = dotfiles/mathiasbynens-dotfiles
+	url = git@github.com:mathiasbynens/dotfiles
+[submodule "dotfiles/prezto"]
+	path = dotfiles/prezto
+	url = git@github.com:sorin-ionescu/prezto
+[submodule "Documents/dochub"]
+	path = Documents/dochub
+	url = git@github.com:rgarcia/dochub
+[submodule "Documents/gitmagic"]
+	path = Documents/gitmagic
+	url = git@github.com:vnwildman/gitmagic
+[submodule "Documents/git-reference"]
+	path = Documents/git-reference
+	url = git@github.com:icyfork/git-reference
+[submodule "Documents/code-guide"]
+	path = Documents/code-guide
+	url = git@github.com:mdo/code-guide
+[submodule "Documents/issue-guidelines"]
+	path = Documents/issue-guidelines
+	url = git@github.com:necolas/issue-guidelines
+[submodule "Documents/Python-Documentation-Kindle"]
+	path = Documents/Python-Documentation-Kindle
+	url = git@github.com:charlax/Python-Documentation-Kindle
+[submodule "Documents/explainshell"]
+	path = Documents/explainshell
+	url = git@github.com:idank/explainshell
+[submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Addition/tiny_tiny_rss-openshift-quickstart"]
+	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Addition/tiny_tiny_rss-openshift-quickstart
+	url = git@github.com:openshift-quickstart/tiny_tiny_rss-openshift-quickstart
