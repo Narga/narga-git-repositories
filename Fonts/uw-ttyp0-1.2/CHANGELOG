@@ -1,0 +1,28 @@
+UW TTYP0 CHANGE LOG
+
+
+1.0  2012/08/28
+
+     Initial public release.
+
+
+1.1  2013/07/19
+
+     39 new characters added (mostly Powerline symbols and other dingbats).
+
+     Various stylistic changes, in particular digits 8 and dotted 0
+     in bold fonts, mathematical relation symbols in 11x22, copyright
+     symbols, musical symbols, chess symbols, card suit symbols.
+
+     Code points of 7 characters in the PUA (E0A0-E0A1, E0B0-E0B3) changed
+     to create space for Powerline symbols.
+
+     FAQ extended.
+
+
+1.2  2013/08/01
+
+     Copyright symbols in 8x16 (regular, bold, italic) changed.
+
+     Some errors in FAQ and VARIANTS.dat fixed.
+
