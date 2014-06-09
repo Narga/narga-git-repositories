@@ -121,3 +121,51 @@
 [submodule "Feed-RSS-Reader/Tiny-Tiny-RSS/Addition/tiny_tiny_rss-openshift-quickstart"]
 	path = Feed-RSS-Reader/Tiny-Tiny-RSS/Addition/tiny_tiny_rss-openshift-quickstart
 	url = git@github.com:openshift-quickstart/tiny_tiny_rss-openshift-quickstart
+[submodule "WordPress/wordless"]
+	path = WordPress/wordless
+	url = git@github.com:welaika/wordless
+[submodule "Icons/sparkicons"]
+	path = Icons/sparkicons
+	url = git@github.com:benedfit/sparkicons
+[submodule "Icons/Font-Awesome"]
+	path = Icons/Font-Awesome
+	url = git@github.com:FortAwesome/Font-Awesome.git
+[submodule "Icons/font-icons"]
+	path = Icons/font-icons
+	url = git@github.com:krisbulman/font-icons
+[submodule "Icons/elusive-iconfont"]
+	path = Icons/elusive-iconfont
+	url = git@github.com:aristath/elusive-iconfont
+[submodule "Misc/wallabag"]
+	path = Misc/wallabag
+	url = git@github.com:wallabag/wallabag
+[submodule "Tumblr/tumblr-backup"]
+	path = Tumblr/tumblr-backup
+	url = git@github.com:codeactual/tumblr-backup
+[submodule "Icons/simple-icons"]
+	path = Icons/simple-icons
+	url = git@github.com:danleech/simple-icons
+[submodule "Misc/rainloop-webmail"]
+	path = Misc/rainloop-webmail
+	url = git@github.com:RainLoop/rainloop-webmail
+[submodule "Misc/phpsysinfo"]
+	path = Misc/phpsysinfo
+	url = git@github.com:phpsysinfo/phpsysinfo.git
+[submodule "CSS/uncss"]
+	path = CSS/uncss
+	url = git@github.com:giakki/uncss
+[submodule "CSS/cssbeautify"]
+	path = CSS/cssbeautify
+	url = git@github.com:senchalabs/cssbeautify
+[submodule "Misc/Dropbox-Uploader"]
+	path = Misc/Dropbox-Uploader
+	url = git@github.com:andreafabrizi/Dropbox-Uploader
+[submodule "Misc/roundcubemail"]
+	path = Misc/roundcubemail
+	url = git@github.com:roundcube/roundcubemail
+[submodule "Misc/galleria"]
+	path = Gallery/galleria
+	url = git@github.com:aino/galleria
+[submodule "Misc/nanoGALLERY"]
+	path = Gallery/nanoGALLERY
+	url = git@github.com:Kris-B/nanoGALLERY
