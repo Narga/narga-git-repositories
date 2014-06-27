@@ -169,3 +169,18 @@
 [submodule "Misc/nanoGALLERY"]
 	path = Gallery/nanoGALLERY
 	url = git@github.com:Kris-B/nanoGALLERY
+[submodule "WordPress/minit"]
+	path = WordPress/minit
+	url = git@github.com:kasparsd/minit
+[submodule "Front-End-Frameworks/masonry"]
+	path = Front-End-Frameworks/masonry
+	url = git@github.com:desandro/masonry
+[submodule "Front-End-Frameworks/isotope"]
+	path = Front-End-Frameworks/isotope
+	url = git@github.com:metafizzy/isotope
+[submodule "Front-End-Frameworks/foundation-masonry"]
+	path = Front-End-Frameworks/foundation-masonry
+	url = git@github.com:SteveMcArthur/foundation-masonry
+[submodule "Feed-RSS-Reader/Pulsefeed"]
+	path = Feed-RSS-Reader/Pulsefeed
+	url = git@github.com:Fizzadar/Pulsefeed
